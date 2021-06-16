@@ -30,7 +30,7 @@ export default function Home() {
           </div>
 
           <div className="my-5 text-center">
-            <video autoPlay loop style={{ width: "500px", height: "500px" }}>
+            <video autoPlay loop style={{ width: "300px", height: "300px" }}>
               <source src="assets/2212.mp4" />
             </video>
           </div>
