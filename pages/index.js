@@ -30,9 +30,7 @@ export default function Home() {
           </div>
 
           <div className="my-5 text-center">
-            <video autoPlay loop style={{ width: "300px", height: "300px" }}>
-              <source src="assets/2212.mp4" />
-            </video>
+          <iframe width="300" height="300" src="https://www.youtube.com/embed/Rd-O5XE6r2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
 
           <div className="my-5 text-center">
