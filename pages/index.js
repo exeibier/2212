@@ -30,7 +30,15 @@ export default function Home() {
           </div>
 
           <div className="my-5 text-center">
-          <iframe width="300" height="300" src="https://www.youtube.com/embed/Rd-O5XE6r2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe
+              width="300"
+              height="300"
+              src="https://www.youtube.com/embed/Rd-O5XE6r2o"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
           </div>
 
           <div className="my-5 text-center">
