@@ -1,6 +1,10 @@
 import React from "react";
 import Layout from "../components/Layout";
 
+//Font awesone
+import { faSpotify, faInstagram } from "@fortawesome/free-brands-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 import "../styles/Home.module.css";
 
 export default function Home() {
@@ -35,9 +39,20 @@ export default function Home() {
               height="300"
               src="https://www.youtube.com/embed/Rd-O5XE6r2o"
               title="YouTube video player"
-              frameborder="0"
+              frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
+              allowFullScreen
+            ></iframe>
+          </div>
+
+          <div className="my-5 text-center">
+            <iframe
+              src="https://open.spotify.com/embed/artist/1kXZDR8AI9g5kBkzYp5AC6"
+              width="300"
+              height="380"
+              frameBorder="0"
+              allowtransparency="true"
+              allow="encrypted-media"
             ></iframe>
           </div>
 
@@ -165,6 +180,21 @@ export default function Home() {
                 digitales.
               </li>
             </ul>
+          </div>
+          <div className="my-5 text-center">
+            <a
+              href="https://open.spotify.com/artist/1kXZDR8AI9g5kBkzYp5AC6?si=fr_mwzVMRemFtZt-UTAnNw&dl_branch=1"
+              target="_blanl"
+            >
+              <FontAwesomeIcon className="mx-5" size="2x" icon={faSpotify} />
+            </a>
+
+            <a
+              href="https://www.instagram.com/veintidos_doce/?igshid=mk3mtqic2d2u"
+              target="_blank"
+            >
+              <FontAwesomeIcon className="mx-5" size="2x" icon={faInstagram} />
+            </a>
           </div>
         </div>
       </Layout>

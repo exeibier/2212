@@ -43,3 +43,8 @@ li{
   font-size: 18px;
   color: whitesmoke;
 }
+
+svg{
+  color: blueviolet;
+  font-size: 40px;
+}
