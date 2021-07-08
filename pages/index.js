@@ -29,7 +29,7 @@ export default function Home() {
                   className="img-fluid"
                   src="assets/insomnio.jpg"
                   alt="Insomnio"
-                  style={{ maxWidth: "500px" }}
+                  style={{ maxWidth: "500px" , width: "100%"}}
                 />
               </div>
             </div>
