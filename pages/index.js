@@ -35,7 +35,7 @@ export default function Home() {
             </div>
             <div className="col-md-6">
               <div className="my-5 text-center">
-              <img
+                <img
                   className="img-fluid"
                   src="assets/ojo.png"
                   alt="2212"
@@ -198,6 +198,11 @@ export default function Home() {
                   digitales.
                 </li>
               </ul>
+            </div>
+            <div className="my-5 col-12 text-center">
+              <a href="assets/2212-rider.pdf" target="_blank">
+                Rider 2212
+              </a>
             </div>
             <div className="my-5 col-12  text-center">
               <a
