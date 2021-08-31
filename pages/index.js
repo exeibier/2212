@@ -47,6 +47,7 @@ export default function Home() {
                   mastering en medios de comunicación. Creación de música para
                   artistas y marcas. Múltiples técnicas de composición y
                   adaptación a las necesidades del cliente.
+                  Contacto:<a href="mailto:xabierhh@gmail.com">xabierhh@gmail.com</a>
                 </p>
               </div>
               <div className="my-5 text-center">
@@ -184,7 +185,7 @@ export default function Home() {
               </ul>
             </div>
             <div className="my-5 col-12  text-center">
-              <h3>Habilidades Profesionales</h3>
+              <h3>Expertise</h3>
               <ul>
                 <li>Adaptación a las necesidades del cliente.</li>
                 <li>Conocimiento de múltiples técnicas compositivas.</li>
