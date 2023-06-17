@@ -9,7 +9,7 @@ import "../styles/Home.module.css";
 
 export default function Home() {
   return (
-    <div style={{ backgroundColor: "black" }}>
+    <div style={{ backgroundColor: "#020302" }}>
       <Layout>
         <div className="container">
           <div className="row">
@@ -27,8 +27,8 @@ export default function Home() {
               <div className="my-5">
                 <img
                   className="img-fluid"
-                  src="assets/insomnio.jpg"
-                  alt="Insomnio"
+                  src="assets/blue2.jpg"
+                  alt="BluBerry"
                   style={{ maxWidth: "500px" , width: "100%"}}
                 />
               </div>
@@ -47,7 +47,7 @@ export default function Home() {
                   mastering en medios de comunicación. Creación de música para
                   artistas y marcas. Múltiples técnicas de composición y
                   adaptación a las necesidades del cliente.
-                  Contacto:<a href="mailto:xabierhh@gmail.com">xabierhh@gmail.com</a>
+                  Contacto: <a href="mailto:veinti212@gmail.com">veinti212@gmail.com</a>
                 </p>
               </div>
               <div className="my-5 text-center">
@@ -63,15 +63,7 @@ export default function Home() {
             </div>
 
             <div className="my-5 col-12 text-center">
-              <iframe
-                width="300"
-                height="300"
-                src="https://www.youtube.com/embed/Rd-O5XE6r2o"
-                title="YouTube video player"
-                frameBorder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              ></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/52DxMan6r04?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
 
             <div className="my-5 col-12 text-center">
@@ -112,74 +104,10 @@ export default function Home() {
               <ul>
                 <li>
                   <a
-                    href="https://open.spotify.com/artist/56F6Jo6GQnAl9yyCDzZSmu?si=qsfppFuySlinAXgnaoRIfw&dl_branch=1"
+                    href="https://open.spotify.com/artist/03ZgqoFEHCUewJJeFOAtn1"
                     target="_blank"
                   >
-                    ElHitchMen
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://open.spotify.com/artist/0WJStgo25ldn11lGGij2fT?si=cWLo4AeXRr-_wJSiHGmSzA"
-                    target="_blank"
-                  >
-                    Sko
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://open.spotify.com/artist/5EWqDDUBi6aYQjKjRpgYLO?si=h9EiLTILRrKGH1g8d4WgTg&dl_branch=1"
-                    target="_blank"
-                  >
-                    Insømnio
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://open.spotify.com/artist/1kXZDR8AI9g5kBkzYp5AC6?si=OMJ9IK5MTy2jm5Eqzz_7Tg&dl_branch=1"
-                    target="_blank"
-                  >
-                    2212
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://open.spotify.com/artist/2xufyVBQpUAhXFPqHfJKcE?si=rcGEdU55Tiir2yZOWwKmJA&dl_branch=1"
-                    target="_blank"
-                  >
-                    Bactee Impi
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://open.spotify.com/artist/6R6cA5kok23t2gPsl0IhjM?si=vygmAyvzQCyf79m6rA-oEQ&dl_branch=1"
-                    target="_blank"
-                  >
-                    Chainthug
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://open.spotify.com/artist/4Oh2HCD3h9xlrW6zNclmub?si=t_2tlhvfQXq_UHEi-HVCDA&dl_branch=1"
-                    target="_blank"
-                  >
-                    Big Magic
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://open.spotify.com/artist/1OwDCgLki8U9dZvNypazd0?si=Dc4XYt3HQaKOzLyWs2J-UQ&dl_branch=1"
-                    target="_blank"
-                  >
-                    Samara la Mala
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://open.spotify.com/track/2gmn2s1KdNReeWiYR4Qw02?si=2KfPOoQXQ4qxtbzsJ4ykDg&dl_branch=1"
-                    target="_blank"
-                  >
-                    Los de la Karga
+                    BlueBerry
                   </a>
                 </li>
               </ul>
